@@ -108,5 +108,7 @@
 **🔒 For Authorized Security Testing Only**
 
 *Stay ethical. Stay legal. Stay hidden.*
+---
 *Версия в разработке и будет изменяться и дополняться в близжайшее время.*
+---
 </div>
